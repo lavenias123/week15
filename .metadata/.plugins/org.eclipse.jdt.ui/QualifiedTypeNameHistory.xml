@@ -23,7 +23,6 @@
     <fullyQualifiedTypeName name="org.springframework.test.context.ActiveProfiles"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpMethod"/>
-    <fullyQualifiedTypeName name="java.util.LinkedList"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
     <fullyQualifiedTypeName name="lombok.Builder"/>
@@ -31,4 +30,6 @@
     <fullyQualifiedTypeName name="java.math.BigDecimal"/>
     <fullyQualifiedTypeName name="com.promineotech.jeep.service.JeepSalesService"/>
     <fullyQualifiedTypeName name="lombok.extern.slf4j.Slf4j"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="org.springframework.web.client.HttpClientErrorException.NotFound"/>
 </qualifiedTypeNameHistroy>
